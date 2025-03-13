@@ -10,16 +10,16 @@ Quando um usuário faz uma solicitação, o Manus AI Agent segue um processo est
 - Seleciona as ferramentas apropriadas
 - Executa comandos no ambiente sandbox
 - Itera e refina suas ações com base nos resultados
-- Submete os resultados finais ao usuário3
+- Submete os resultados finais ao usuário
 
 ## Apresentação ao usuario
 
 O Manus AI Agent oferece uma experiência transparente ao usuário:
 
-- Exibe uma janela com um computador virtual que realiza pesquisas em tempo real4
-- Mostra o passo a passo seguido pela IA, incluindo pesquisas feitas e arquivos gerados4
-- Apresenta uma janela de prompt que exibe todo o processo de raciocínio4
-- Lista todos os arquivos criados durante o processo4
+- Exibe uma janela com um computador virtual que realiza pesquisas em tempo real
+- Mostra o passo a passo seguido pela IA, incluindo pesquisas feitas e arquivos gerados
+- Apresenta uma janela de prompt que exibe todo o processo de raciocínio
+- Lista todos os arquivos criados durante o processo
 
 ---
 
