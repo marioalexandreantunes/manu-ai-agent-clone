@@ -1,4 +1,4 @@
-# Manu Generic AI Agent -Clone- Proof of Concept
+# Manu AI Agent - Proof of Concept
 
 Manu AI é um assistente virtual inteligente que combina várias funcionalidades de automação de sistemas operacionais, captura de tela, web scraping, e controle remoto. Este projeto foi desenvolvido para estudo e como prova de conceito de um agente IA capaz de interagir com o sistema do usuário, realizar tarefas automatizadas e fornecer uma interface simples via web/local.
 
@@ -26,6 +26,7 @@ Manu AI é um assistente virtual inteligente que combina várias funcionalidades
 - Python 3.x
 - Sistema Operacional: Windows, Linux ou macOS
 - ChromeDriver (para Selenium)
+- Inferencias rapidas com Groq e Inferencias com LLM de raciocinio e visão
 
 1. Baixe o [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) e coloque-o no mesmo diretório do script ou configure o caminho corretamente.
 
