@@ -1,6 +1,6 @@
 # Manus AI Agent - Proof of Concept
 
-Manus AI Agent pelo que parece roda do lado do servidor, sandbox, onde é apresentado ao usuario todo o raciocinio, procuras e ficheiros usados, mas poderá ser feiro no lado do usuario combinando várias funcionalidades de automação de sistemas operacionais, captura de tela, web scraping, e controle remoto. Este projeto foi iniciado para estudo e como prova de conceito de um agente IA capaz de interagir com o sistema do usuário, realizar tarefas automatizadas e fornecer uma interface simples via UI. AI Agent text2action.
+Manus AI Agent pelo que parece roda do lado do servidor, sandbox, onde é apresentado ao usuario todo o raciocinio, procuras e ficheiros usados, mas poderá ser feito no lado do usuario combinando várias funcionalidades de automação de sistemas operacionais, captura de tela, web scraping, e controle remoto. Este projeto foi iniciado para estudo e como prova de conceito de um agente IA capaz de interagir com o sistema do usuário, realizar tarefas automatizadas e fornecer uma interface simples via UI. **AI Agent text2action**.
 
 ## Processo de execução Manu
 
