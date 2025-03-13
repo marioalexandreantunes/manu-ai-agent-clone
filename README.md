@@ -1,6 +1,29 @@
-# Manu AI Agent - Proof of Concept
+# Manus AI Agent - Proof of Concept
 
-Manu AI é um assistente virtual inteligente que combina várias funcionalidades de automação de sistemas operacionais, captura de tela, web scraping, e controle remoto. Este projeto foi desenvolvido para estudo e como prova de conceito de um agente IA capaz de interagir com o sistema do usuário, realizar tarefas automatizadas e fornecer uma interface simples via web/local.
+Manus AI Agent pelo que parece roda do lado do servidor, sandbox, onde é apresentado ao usuario todo o raciocinio, procuras e ficheiros usados, mas poderá ser feiro no lado do usuario combinando várias funcionalidades de automação de sistemas operacionais, captura de tela, web scraping, e controle remoto. Este projeto foi iniciado para estudo e como prova de conceito de um agente IA capaz de interagir com o sistema do usuário, realizar tarefas automatizadas e fornecer uma interface simples via UI. AI Agent text2action.
+
+## Processo de execução Manu
+
+Quando um usuário faz uma solicitação, o Manus AI Agent segue um processo estruturado:
+
+- Analisa o pedido do usuário
+- Seleciona as ferramentas apropriadas
+- Executa comandos no ambiente sandbox
+- Itera e refina suas ações com base nos resultados
+- Submete os resultados finais ao usuário3
+
+## Apresentação ao usuario
+
+O Manus AI Agent oferece uma experiência transparente ao usuário:
+
+- Exibe uma janela com um computador virtual que realiza pesquisas em tempo real4
+- Mostra o passo a passo seguido pela IA, incluindo pesquisas feitas e arquivos gerados4
+- Apresenta uma janela de prompt que exibe todo o processo de raciocínio4
+- Lista todos os arquivos criados durante o processo4
+
+---
+
+# Conceito do lado do usuario
 
 ## Funcionalidades
 
