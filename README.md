@@ -1,29 +1,51 @@
 # Manus AI Agent - Proof of Concept
 
-Manus AI Agent pelo que parece roda do lado do servidor, sandbox, onde é apresentado ao usuario todo o raciocinio, procuras e ficheiros usados, mas poderá ser feito no lado do usuario combinando várias funcionalidades de automação de sistemas operacionais, captura de tela, web scraping, e controle remoto. Este projeto foi iniciado para estudo e como prova de conceito de um agente IA capaz de interagir com o sistema do usuário, realizar tarefas automatizadas e fornecer uma interface simples via UI. **AI Agent text2action**.
+O Manus AI Agent opera de forma autônoma em um ambiente sandbox no lado do servidor, apresentando ao usuário todo o processo de raciocínio, pesquisas e arquivos utilizados. Vamos detalhar como isso poderá funcionar:
 
-## Processo de execução Manus
+## Ambiente de Execução
 
-Quando um usuário faz uma solicitação, o Manus AI Agent segue um processo estruturado:
+O Manus AI roda em um **ambiente sandbox Linux** no lado do servidor. Este ambiente controlado permite que o agente execute várias tarefas de forma segura, incluindo:
 
-- Analisa o pedido do usuário
-- Seleciona as ferramentas apropriadas
-- Executa comandos no ambiente sandbox
-- Itera e refina suas ações com base nos resultados
-- Submete os resultados finais ao usuário
+- Instalação de software
+- Execução de scripts
+- Manipulação de arquivos
+- Navegação na web
+- Processamento de dados
 
-## Apresentação ao usuario
+## Processo de Execução
 
-O Manus AI Agent oferece uma experiência transparente ao usuário:
+Quando um usuário faz uma solicitação, o Manus AI segue um processo estruturado:
 
-- Exibe uma janela com um computador virtual que realiza pesquisas em tempo real
-- Mostra o passo a passo seguido pela IA, incluindo pesquisas feitas e arquivos gerados
-- Apresenta uma janela de prompt que exibe todo o processo de raciocínio
-- Lista todos os arquivos criados durante o processo
+1. Analisa o pedido do usuário
+2. Seleciona as ferramentas apropriadas
+3. Executa comandos no ambiente sandbox
+4. Itera e refina suas ações com base nos resultados
+5. Submete os resultados finais ao usuário
+
+## Apresentação ao Usuário
+
+O Manus AI oferece uma experiência transparente ao usuário:
+
+- Exibe uma **janela com um computador virtual** que realiza pesquisas em tempo real
+- Mostra o **passo a passo seguido pela IA**, incluindo pesquisas feitas e arquivos gerados
+- Apresenta uma **janela de prompt** que exibe todo o processo de raciocínio
+- Lista todos os **arquivos criados durante o processo**
+
+## Processamento em Nuvem
+
+Uma característica importante do Manus AI é que todo o seu funcionamento ocorre remotamente:
+
+- O processamento é feito **na nuvem**, permitindo que o usuário desligue seu dispositivo enquanto a IA continua trabalhando
+- Os resultados ficam disponíveis para acesso posterior, sem perda de progresso
+
+Esta abordagem oferece uma visão completa do processo de raciocínio do agente de IA, permitindo que os usuários entendam como as conclusões foram alcançadas e quais recursos foram utilizados.
 
 ---
 
-# Conceito do lado do usuario
+# Projecto AI Agent TEXT2ACTION
+
+Manus AI Agent pelo que parece roda do lado do servidor, mas poderá ser feito no lado do usuario combinando várias funcionalidades de automação de sistemas operacionais, captura de tela, web scraping, e controle remoto. Este projeto foi iniciado para estudo e como prova de conceito de um agente IA capaz de interagir com o sistema do usuário, realizar tarefas automatizadas e fornecer uma interface simples via UI. **AI Agent text2action**.
+
 
 ## Funcionalidades
 
