@@ -9,7 +9,7 @@ O Manus AI roda em um **ambiente sandbox Linux** no lado do servidor. Este ambie
 - Instalação de software
 - Execução de scripts
 - Manipulação de arquivos
-- Navegação na web
+- Navegação na web - Browserless
 - Processamento de dados
 
 ## Processo de Execução
@@ -59,7 +59,7 @@ Manus AI Agent pelo que parece roda do lado do servidor, mas poderá ser feito n
 
 - **Backend**: Flask
 - **Captura de Tela**: PyScreenshot, OpenCV, Pillow, JS no frontend para capturar a tela do usuário
-- **Web Scraping & Navegação**: Selenium, BeautifulSoup, Requests
+- **Web Scraping & Navegação**: Selenium, BeautifulSoup, Requests, Browserless
 - **Automação de Sistema**: PyWinAuto (Windows), PyAutoGUI, Keyboard (Linux/macOS)
 - **IA & NLP**: Marvin, OpenAI, Transformers
 - **Manipulação de Arquivos & Comandos**: Pyperclip, Psutil, Watchdog
