@@ -42,9 +42,9 @@ Esta abordagem oferece uma visão completa do processo de raciocínio do agente 
 
 ---
 
-# Projecto AI Agent TEXT2ACTION
+# Projecto AI Agent text-to-action
 
-Manus AI Agent pelo que parece roda do lado do servidor, mas poderá ser feito no lado do usuario combinando várias funcionalidades de automação de sistemas operacionais, captura de tela, web scraping, e controle remoto. Este projeto foi iniciado para estudo e como prova de conceito de um agente IA capaz de interagir com o sistema do usuário, realizar tarefas automatizadas e fornecer uma interface simples via UI. **AI Agent text2action**.
+Manus AI Agent pelo que parece roda do lado do servidor, mas poderá ser feito no lado do usuario combinando várias funcionalidades de automação de sistemas operacionais, captura de tela, web scraping, e controle remoto. Este projeto foi iniciado para estudo e como prova de conceito de um agente IA capaz de interagir com o sistema do usuário, realizar tarefas automatizadas e fornecer uma interface simples via UI. **AI Agent text-to-action**.
 
 
 ## Funcionalidades
