@@ -79,9 +79,10 @@ Manus AI Agent pelo que parece roda do lado do servidor, mas poderá ser feito n
 
 #### **Base (Core AI & Backend)**  
 ```sh
-pip install flask
+pip install flask streamlit uvicorn
 pip install marvin groq  # (ou outras libs para LLMs)
 pip install openai  # Se quiser usar GPTs externos
+pip install flake8 mypy ruff # development
 ```
 
 #### **Captura e análise de tela**  
@@ -153,6 +154,11 @@ Se quiser integrar o Manu com APIs externas:
 pip install httpx  # Alternativa mais rápida ao requests
 pip install websocket-client  # Para comunicação em tempo real
 ```
+
+### **5. Code execution**
+```sh
+# Code execution
+pip install jupyter-client nbformat
 
 ### **5. Gerenciamento de Dependências e Virtualização**  
 Se quiser manter o projeto organizado e replicável:  
